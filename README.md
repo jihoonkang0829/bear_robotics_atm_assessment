@@ -1,2 +1,2 @@
-# bear_robotics_atm_assessment
+# Bear Robotics ATM assessment
 ATM controller implementation for Bear Robotics coding challenge.
